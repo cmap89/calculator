@@ -1,3 +1,2 @@
 # calculator
-
-# Working calculator built with HTML, CSS, and JavaScript
+ Working calculator built with HTML, CSS, and JavaScript
